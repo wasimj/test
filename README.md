@@ -1,2 +1,2 @@
 # test
-A public test repo - e.g. for testing Jenkins
+A private test repo - e.g. for testing Jenkins
